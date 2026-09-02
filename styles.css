@@ -1,3 +1,7 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
 body {
 font-family: Arial, Helvetica, sans-serif;
 background-image: linear-gradient(45deg,  #ff0019 10%, #0069fc ,#000000, #ff00ff );
